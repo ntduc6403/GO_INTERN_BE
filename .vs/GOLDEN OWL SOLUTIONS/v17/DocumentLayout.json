@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|d:\\dotnet\\golden owl solutions\\golden owl solutions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|d:\\dotnet\\golden owl solutions\\golden owl solutions\\impls\\scoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\impls\\scoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\golden owl solutions\\intfs\\iscoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\intfs\\iscoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|d:\\dotnet\\golden owl solutions\\golden owl solutions\\data\\scores_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\data\\scores_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|d:\\dotnet\\golden owl solutions\\golden owl solutions\\controllers\\scorescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\controllers\\scorescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|d:\\dotnet\\golden owl solutions\\golden owl solutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\golden owl solutions\\golden owl solutions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\golden owl solutions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|d:\\dotnet\\golden owl solutions\\golden owl solutions\\golden owl solutions.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\golden owl solutions.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\golden owl solutions\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702E43-3921-4C3B-A643-8A56500540EF}|GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj|solutionrelative:golden owl solutions\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GOLDEN OWL SOLUTIONS.http",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.http",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.http",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.http",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-25T03:40:51.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoresController .cs",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Controllers\\ScoresController .cs",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\Controllers\\ScoresController .cs",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Controllers\\ScoresController .cs",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\Controllers\\ScoresController .cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:56:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoresService.cs",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Impls\\ScoresService.cs",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\Impls\\ScoresService.cs",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Impls\\ScoresService.cs",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\Impls\\ScoresService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADwvw8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:50:58.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\appsettings.json",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\appsettings.json",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\appsettings.json",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T02:22:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scores_DbContext.cs",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Data\\Scores_DbContext.cs",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\Data\\Scores_DbContext.cs",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Data\\Scores_DbContext.cs",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\Data\\Scores_DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:14:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Program.cs",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\Program.cs",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Program.cs",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:50:14.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IScoresService.cs",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Intfs\\IScoresService.cs",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\Intfs\\IScoresService.cs",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Intfs\\IScoresService.cs",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\Intfs\\IScoresService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:20:58.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scores.cs",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Models\\Scores.cs",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\Models\\Scores.cs",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\Models\\Scores.cs",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\Models\\Scores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:01:40.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GOLDEN OWL SOLUTIONS.csproj",
+              "DocumentMoniker": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj",
+              "RelativeDocumentMoniker": "GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj",
+              "ToolTip": "D:\\DOTNET\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj",
+              "RelativeToolTip": "GOLDEN OWL SOLUTIONS\\GOLDEN OWL SOLUTIONS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T07:55:00.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

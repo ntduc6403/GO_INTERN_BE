@@ -44,3 +44,4 @@ GOLDEN OWL SOLUTIONS là một ứng dụng API để quản lý điểm số c�
 ### Bước 5: Kiểm tra dữ liệu
 
 - Bạn có thể sử dụng các endpoint trong API để kiểm tra dữ liệu đã được chèn vào bảng `Scores`. Ví dụ, bạn có thể gọi endpoint `GET /api/scores` để lấy danh sách tất cả các điểm số.
+"# GO_INTERN_BE" 

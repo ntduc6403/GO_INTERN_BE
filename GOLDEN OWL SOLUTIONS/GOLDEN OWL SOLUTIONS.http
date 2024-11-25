@@ -1,0 +1,6 @@
+@GOLDEN_OWL_SOLUTIONS_HostAddress = http://localhost:5220
+
+GET {{GOLDEN_OWL_SOLUTIONS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
